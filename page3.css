@@ -1,0 +1,166 @@
+.page3 {
+    width: 1296px;
+    height: 699px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+    position: relative;
+    margin-bottom: 150px;
+}
+
+.title {
+    width: 482px;
+    height: 59px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.title p {
+    color: var(--white, #FFF);
+    text-align: center;
+    font-family: 'El Messiri';
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+}
+
+.gorup1 {
+    width: 416px;
+    height: 540px;
+    flex-shrink: 0;
+    position: relative;
+    right: 440px;
+}
+
+.gorup1 p {
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 140%;
+    position: absolute;
+    z-index: 2;
+    bottom: 50px;
+    left: 50px;
+}
+
+.rs3 {
+    width: 416px;
+    height: 540px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: linear-gradient(0deg, rgba(1, 138, 190, 0.50) 0%, rgba(1, 138, 190, 0.50) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat, url(<path-to-image>), lightgray 50% / cover no-repeat, #8E8E8E;
+    position: absolute;
+}
+
+.gorup2 {
+    width: 416px;
+    height: 258px;
+    flex-shrink: 0;
+    position: relative;
+    bottom: 540px;
+}
+
+.rs4 {
+    width: 416px;
+    height: 258px;
+    flex-shrink: 0;
+    position: absolute;
+    z-index: -2;
+}
+
+.gorup2 p {
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 140%;
+    position: absolute;
+    bottom: 30px;
+    left: 40px;
+}
+
+.gorup3 {
+    width: 416px;
+    height: 258px;
+    flex-shrink: 0;
+    position: relative;
+    bottom: 520px;
+}
+
+.rs5 {
+    position: absolute;
+    z-index: -8;
+}
+
+.gorup3 p {
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 140%;
+    position: absolute;
+    bottom: 30px;
+    left: 40px;
+}
+
+.gorup4 {
+    width: 416px;
+    height: 258px;
+    flex-shrink: 0;
+    position: relative;
+    bottom: 1055px;
+    left: 440px;
+}
+
+.rs6 {
+    position: absolute;
+    z-index: -9;
+}
+
+.gorup4 p {
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 140%;
+    position: absolute;
+    bottom: 30px;
+    left: 40px;
+}
+
+.gorup5 {
+    width: 416px;
+    height: 258px;
+    flex-shrink: 0;
+    position: relative;
+    bottom: 1035px;
+    left: 440px;
+}
+
+.rs7 {
+    position: absolute;
+    z-index: -2;
+}
+
+.gorup5 p {
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 140%;
+    position: absolute;
+    bottom: 30px;
+    left: 40px
+}

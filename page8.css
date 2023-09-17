@@ -1,0 +1,35 @@
+.page8 {
+    width: 1296px;
+    height: 19px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px;
+}
+
+.page8 p {
+    color: var(--white, #FFF);
+
+    /* p/14r */
+    font-family: 'El Messiri';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 135%;
+    /* 18.9px */
+}
+
+.page8 span {
+    color: var(--white, #FFF);
+    text-align: right;
+    font-family: 'El Messiri';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+
+.page4 {
+    border: none;
+}

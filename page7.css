@@ -1,0 +1,251 @@
+.page7 {
+    width: 1296px;
+    height: 604px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.page7 img {
+    width: 856px;
+    height: 604px;
+    flex-shrink: 0;
+}
+
+.frame7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.frame8 {
+    width: 392px;
+    height: 290px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: var(--accent, #018ABE);
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 45px;
+    padding-top: 35px;
+
+}
+
+.frame8 h3 {
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.frame8 .dt6 {
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dt6 img {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.dt6 a {
+    text-decoration: none;
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+
+.frame8 .dt7 {
+    width: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dt7 img {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.dt7 a {
+    text-decoration: none;
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+
+.frame8 .dt8 {
+    width: 210px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dt8 img {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.dt8 a {
+    text-decoration: none;
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+
+.frame8 button {
+    width: 155px;
+    height: 36px;
+    display: inline-flex;
+    padding: 9px 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 3px;
+    background: var(--white, #FFF);
+    color: var(--accent, #018ABE);
+    font-family: 'El Messiri';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    /* 18.2px */
+    padding: 9px 15px;
+    border: none;
+}
+
+.frame9 {
+    width: 392px;
+    height: 290px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: var(--accent, #018ABE);
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 45px;
+    padding-top: 35px;
+}
+
+.frame9 h3 {
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.frame9 .dt9 {
+    width: 165px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dt9 img {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.dt9 a {
+    text-decoration: none;
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+
+.frame9 .dt10 {
+    width: 185px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dt10 img {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.dt10 a {
+    text-decoration: none;
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+
+.frame9 .dt11 {
+    width: 210px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dt11 img {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+
+.dt11 a {
+    text-decoration: none;
+    color: var(--white, #FFF);
+    font-family: 'El Messiri';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135%;
+}
+
+.frame9 button {
+    width: 155px;
+    height: 36px;
+    display: inline-flex;
+    padding: 9px 15px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 3px;
+    background: var(--white, #FFF);
+    color: var(--accent, #018ABE);
+    font-family: 'El Messiri';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    /* 18.2px */
+    padding: 9px 15px;
+    border: none;
+}
